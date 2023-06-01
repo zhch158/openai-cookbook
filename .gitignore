@@ -133,3 +133,4 @@ dmypy.json
 /examples/data/transactions*
 *.DS_Store
 /apps/web-crawl-q-and-a/text/openai.com/
+/apps/web-crawl-q-and-a/processed/scraped.csv
